@@ -1,6 +1,13 @@
-# 🎯 Lead Scoring & Conversion Prediction — X Education  
+# 🎯 Lead Scoring & Conversion Prediction
 Machine Learning & AI Pipeline by Sahil Verma  
 Built using A.I-enhanced Machine Learning techniques for modeling, analysis, and visualization.  
+
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python) 
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter) 
+![Plotly](https://img.shields.io/badge/Visualization-Plotly-blueviolet?logo=plotly) 
+![AI](https://img.shields.io/badge/Powered%20By-A.I-green) 
+![License](https://img.shields.io/badge/License-MIT-lightgrey) 
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ---
 
